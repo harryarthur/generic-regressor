@@ -1,4 +1,4 @@
-# Generic Regression Script for Kaggle
+# Generic Regression Script
 
 Completes data cleaning, feature engineering, model training, model optimisation, bagging, boosting, stacking and prediction generically. Good when a quick regression analysis is needed but not meant to replace comprehensive manual work. Although it produces submission files for kaggle, they're essentially just predictions (as they should be).
 
