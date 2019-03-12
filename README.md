@@ -6,8 +6,8 @@ Completes data cleaning, feature engineering, model training, model optimisation
 
 The script needs 4 paramaters from the command line in the following order:
 
-train data - path to train data. CSV only. The train data must have a unique indentifier column (ID) and target column<br />
-test data - path to test data. CSV only. The train data must have a unique indentifier column (ID)<br />
+train data - path to train data. CSV only. The train data must have a unique identifier column (ID) and target column<br />
+test data - path to test data. CSV only. The train data must have a unique identifier column (ID)<br />
 ID - name of unique identifier column<br />
 Target column - name of target column<br />
 
